@@ -1,6 +1,9 @@
 const { version } = require("../package.json");
 
 const bsc = require("../tokens/bsc.json");
+const base = require("../tokens/base.json");
+const bch = require("../tokens/bch.json");
+
 
 
 module.exports = function buildList() {
@@ -19,6 +22,8 @@ module.exports = function buildList() {
     keywords: ["goblinscash", "default"],
     tokens: [     
       ...bsc,
+      ...base,
+      ...bch
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
