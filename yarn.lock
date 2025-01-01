@@ -117,12 +117,12 @@
 "@isaacs/string-locale-compare@^1.1.0":
   version "1.1.0"
 
-"@myswap/token-list@^1.0.2", "@myswap/token-list@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/@myswap/token-list/-/token-list-1.0.3.tgz"
-  integrity sha512-m7R7ndG/srQsJkv3SCx37AnE14mphirAwOH3l5zke+Wxf5fPaTYoBUPVQp2qMjXYH1SKRnH++w6AvzDsfr02Gw==
+"@myswap/token-list@^1.0.5", "@myswap/token-list@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.npmjs.org/@myswap/token-list/-/token-list-1.0.6.tgz"
+  integrity sha512-P/LltrvXYv7pi1j5t3h+nvBHBX7KKNLsLNDblIW8CYG+4q1nZ67+YPtDVIprXagsSlixslMMHY0oAhDmR/NmdA==
   dependencies:
-    "@myswap/token-list" "^1.0.2"
+    "@myswap/token-list" "^1.0.5"
     i "^0.3.7"
     npm "^11.0.0"
 

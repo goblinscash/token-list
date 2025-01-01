@@ -1,11 +1,11 @@
 [
   {
-    "name": "Gob Token",
-    "symbol": "GOB",
-    "address": "0x701ACA29AE0F5d24555f1E8A6Cf007541291d110",
+    "name": "DAI Token",
+    "symbol": "DAI",
+    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
     "chainId": 56,
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/gob.png"
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/dia.png"
   },
   {
     "name": "Aero Token",

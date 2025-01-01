@@ -1,0 +1,114 @@
+[
+    {
+        "name": "GOB Token",
+        "symbol": "GOB",
+        "address": "0x56381cB87C8990971f3e9d948939e1a95eA113a3",
+        "chainId": 10000,
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/gob.png"
+    },
+    {
+        "name": "bbUSDC Token",
+        "symbol": "bbUSDC",
+        "address": "0xbb2A35cc3e3dDb679fe30A82051633bC822e4191",
+        "chainId": 10000,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/bbusdc.png"
+    },
+    {
+        "name": "bcBCH Token",
+        "symbol": "bcBCH",
+        "address": "0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195",
+        "chainId": 10000,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/bcbch.png"
+    },
+    {
+        "name": "WBCH",
+        "symbol": "WBCH",
+        "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+        "chainId": 10000,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/bch.png"
+    },
+    {
+        "name": "Gob Token",
+        "symbol": "GOB",
+        "address": "0x701ACA29AE0F5d24555f1E8A6Cf007541291d110",
+        "chainId": 56,
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/gob.png"
+    },
+    {
+        "name": "BCH Token",
+        "symbol": "BCH",
+        "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/bcbch.png"
+    },
+    {
+        "name": "USDT Token",
+        "symbol": "USDT",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/usdt.png"
+    },
+    {
+        "name": "USDC Token",
+        "symbol": "USDC",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/usdc.png"
+    },
+    {
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/bnb.png"
+    },
+    {
+        "name": "GOB Token",
+        "symbol": "GOB",
+        "address": "0xcDBa3E4C5c505F37CfbBB7aCCF20D57e793568E3",
+        "chainId": 8453,
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/gob.png"
+    },
+    {
+        "name": "WETH Token",
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/weth.png"
+    },
+    {
+        "name": "uBCH Token",
+        "symbol": "uBCH",
+        "address": "0x7bE0Cc2cADCD4A8f9901B4a66244DcDd9Bd02e0F",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/ubch.png"
+    },
+    {
+        "name": "USDC Token",
+        "symbol": "USDC",
+        "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/usdc.png"
+    },
+    {
+        "name": "DEGEN Token",
+        "symbol": "DEGEN",
+        "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/degen.png"
+    }
+]

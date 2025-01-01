@@ -3,11 +3,25 @@ const { version } = require("../package.json");
 const bsc = require("../tokens/bsc.json");
 const base = require("../tokens/base.json");
 const bch = require("../tokens/bch.json");
+const main = require("../tokens/main.json");
 
 
 
 module.exports = function buildList() {
   const parsed = version.split(".");
+
+  const tokenLogos = [
+    ...bsc,
+    ...base,
+    ...bch,
+    ...main
+  ].reduce((acc, token) => {
+    if (token.address && token.logoURI) {
+      acc[token.address.toLocaleLowerCase()] = token.logoURI;
+    }
+    return acc;
+  }, {});
+
   return {
     name: "Goblins Cash Menu",
     timestamp: new Date().toISOString(),
@@ -20,7 +34,7 @@ module.exports = function buildList() {
     logoURI:
       "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/blockchains/smartchain/assets/0x701ACA29AE0F5d24555f1E8A6Cf007541291d110/logo.png",
     keywords: ["goblinscash", "default"],
-    tokens: [     
+    tokens: [
       ...bsc,
       ...base,
       ...bch
@@ -32,5 +46,6 @@ module.exports = function buildList() {
         }
         return t1.chainId < t2.chainId ? -1 : 1;
       }),
+    tokenLogos,
   };
 };

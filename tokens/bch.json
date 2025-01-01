@@ -32,12 +32,12 @@
         "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/btc.png"
     },
     {
-        "name": "GOB Token",
-        "symbol": "GOB",
-        "address": "0x56381cB87C8990971f3e9d948939e1a95eA113a3",
+        "name": "bbUSDT Token",
+        "symbol": "bbUSDT",
+        "address": "0xbbb3700F33fCb64437Dc28A7Beb6b21f5cC76FB9",
         "chainId": 10000,
-        "decimals": 9,
-        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/gob.png"
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/bbusdt.png"
     },
     {
         "name": "Bonk Token",
