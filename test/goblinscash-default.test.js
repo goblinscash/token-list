@@ -11,7 +11,7 @@ const validator = ajv.compile(schema);
 
 describe("buildList", () => {
   const defaultTokenList = buildList();
-  console.log(tokens.length, "tokenList", tokenLogos)
+  console.log(tokens.length, "tokenList", tokenLogos["0xbc2f884680c95a02cea099da2f524b366d9028ba"])
 
   // it("validates", () => {
   //   expect(validator(defaultTokenList)).to.equal(true);

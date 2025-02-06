@@ -134,5 +134,13 @@
         "chainId": 10000,
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/ptmusdc26june2025.png"
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0x70244D73dfd3815Ba783C8e3Fae88409DC620c29",
+        "chainId": 10000,
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/usdc.png"
     }
 ]

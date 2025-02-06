@@ -8,6 +8,14 @@
         "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/gob.png"
     },
     {
+        "name": "bcUSDT Token",
+        "symbol": "bcUSDT",
+        "address": "0xBc2F884680c95A02cea099dA2F524b366d9028Ba",
+        "chainId": 10000,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/usdt.png"
+    },
+    {
         "name": "bbUSDC Token",
         "symbol": "bbUSDC",
         "address": "0xbb2A35cc3e3dDb679fe30A82051633bC822e4191",

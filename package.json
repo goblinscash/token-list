@@ -1,6 +1,6 @@
 {
   "name": "@myswap/token-list",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "◦ The goblinscash default token list",
   "main": "build/goblinscash-default.tokenlist.json",
   "scripts": {
