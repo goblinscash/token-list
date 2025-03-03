@@ -54,5 +54,13 @@
     "chainId": 56,
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/doge.png"
+  },
+  {
+    "name": "MyShell Token",
+    "symbol": "SHELL",
+    "address": "0xf2c88757f8d03634671208935974B60a2a28Bdb3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/shell.png"
   }
 ]

@@ -4,14 +4,14 @@ const { expect } = require("chai");
 const { getAddress } = require("@ethersproject/address");
 const Ajv = require("ajv");
 const buildList = require("../internal/buildList");
-const {tokens, tokenLogos} = require("@myswap/token-list");
+// const {tokens, tokenLogos} = require("@myswap/token-list");
 
 const ajv = new Ajv({ allErrors: true, format: "full" });
 const validator = ajv.compile(schema);
 
 describe("buildList", () => {
   const defaultTokenList = buildList();
-  console.log(tokens.length, "tokenList", tokenLogos["0xbc2f884680c95a02cea099da2f524b366d9028ba"])
+  // console.log(tokens.length, "tokenList", tokenLogos["0xbc2f884680c95a02cea099da2f524b366d9028ba"])
 
   // it("validates", () => {
   //   expect(validator(defaultTokenList)).to.equal(true);
