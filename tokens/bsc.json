@@ -94,5 +94,21 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/ether.png"
+  },
+  {
+    "name": "Binance-Peg SOLANA Token",
+    "symbol": "SOL",
+    "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/sol.png"
+  },
+  {
+    "name": "Binance-Peg BTCB Token",
+    "symbol": "BTCB",
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/btcb.png"
   }
 ]

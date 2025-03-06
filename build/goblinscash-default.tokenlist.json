@@ -1,10 +1,10 @@
 {
   "name": "Goblins Cash Menu",
-  "timestamp": "2025-03-03T11:09:34.388Z",
+  "timestamp": "2025-03-06T05:01:11.386Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/blockchains/smartchain/assets/0x701ACA29AE0F5d24555f1E8A6Cf007541291d110/logo.png",
@@ -13,6 +13,14 @@
     "default"
   ],
   "tokens": [
+    {
+      "name": "Binance-Peg Cardano Token",
+      "symbol": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/cardano.png"
+    },
     {
       "name": "Aero Token",
       "symbol": "AERO",
@@ -28,6 +36,14 @@
       "chainId": 56,
       "decimals": 5,
       "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/bonk.png"
+    },
+    {
+      "name": "Binance-Peg BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/btcb.png"
     },
     {
       "name": "DAI Token",
@@ -46,12 +62,28 @@
       "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/doge.png"
     },
     {
+      "name": "Binance-Peg Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/ether.png"
+    },
+    {
       "name": "Floki Token",
       "symbol": "FLOKI",
       "address": "0xfb5B838b6cfEEdC2873aB27866079AC55363D37E",
       "chainId": 56,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/floki.png"
+    },
+    {
+      "name": "Binance-Peg Litecoin Token",
+      "symbol": "LTC",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/litecoin.png"
     },
     {
       "name": "Pepe Token",
@@ -76,6 +108,22 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/shib.png"
+    },
+    {
+      "name": "Binance-Peg SOLANA Token",
+      "symbol": "SOL",
+      "address": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/sol.png"
+    },
+    {
+      "name": "Binance-Peg XRP Token",
+      "symbol": "XRP",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/xrp.png"
     },
     {
       "name": "AERO Token",
@@ -287,6 +335,12 @@
     "0xfb5b838b6cfeedc2873ab27866079ac55363d37e": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/floki.png",
     "0xba2ae424d960c26247dd6c32edc70b295c744c43": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/doge.png",
     "0xf2c88757f8d03634671208935974b60a2a28bdb3": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/shell.png",
+    "0x4338665cbb7b2485a8855a139b75d5e34ab0db94": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/litecoin.png",
+    "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/cardano.png",
+    "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/xrp.png",
+    "0x2170ed0880ac9a755fd29b2688956bd959f933f8": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/ether.png",
+    "0x570a5d26f7765ecb712c0924e4de545b89fd43df": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/sol.png",
+    "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/btcb.png",
     "0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/neiro.png",
     "0x2da56acb9ea78330f947bd57c54119debda7af71": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/mog.png",
     "0x2a06a17cbc6d0032cac2c6696da90f29d39a1a29": "https://raw.githubusercontent.com/goblinscash/goblins-icons/main/icons/bitcoin.png",
